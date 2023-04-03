@@ -13,7 +13,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #333;
-  background-color: #f5f5f5;
+  background-color: #d5c1c1;
 }
 
 header {
@@ -32,6 +32,7 @@ header h1 {
   max-width: 500px;
   margin: 30px auto;
   padding: 20px;
+  background-color: #fff;
 }
 
 .edit-mode {
